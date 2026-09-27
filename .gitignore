@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Model
+model.pkl
+
+# Raw / generated data
+data/raw/
+data/xg_raw.csv
+data/title_odds.csv
+data/features.csv
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
