@@ -285,11 +285,6 @@ This generates the season simulation results in:
 data/title_odds.csv
 ```
 
-### Tune the model
-
-```bash
-python tune.py
-```
 
 ### Simulation arguments
 
